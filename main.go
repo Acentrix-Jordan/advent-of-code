@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/Acentrix-Jordan/advent-of-code/2025/dayOne"
+	"github.com/Acentrix-Jordan/advent-of-code/2025/dayTwo"
 )
 
 func main() {
-	dayOne.PartTwo()
+	dayTwo.PartOne()
 }
